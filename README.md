@@ -5,4 +5,5 @@ This repository contains code and data for the study named "Continuous Time Chao
 Xls file contains test results for Whale Optimization Algorithm (WOA) with Chaotic Systems.
 M files contains codes for Matlab
 
-This study is under review yet, therefore full text not given
+You can access the study at this link:
+https://aece.ro/displaypdf.php?year=2018&number=4&article=6
